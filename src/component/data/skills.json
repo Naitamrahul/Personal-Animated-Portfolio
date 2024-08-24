@@ -24,15 +24,15 @@
     "imageSrc": "skills/firebase.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Java",
+    "imageSrc": "skills/java.jpeg"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Android",
+    "imageSrc": "skills/android.png"
   }
 ]

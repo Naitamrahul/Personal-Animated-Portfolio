@@ -1,7 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import pdf from '../component/pdf/Technical Trainer.pdf'
-import hero from './data/hero.json'
-import profile from '../component/hero.avif'
+import profile from '../component/rahul1.jpg'
 import Typed from "typed.js";
 
 const Home = () => {

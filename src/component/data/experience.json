@@ -1,41 +1,54 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "role": "Senior Technical Trainer",
+    "organisation": "Upskill Educome Pvt Ltd.",
+    "startDate": "August, 2023",
     "endDate": "Present",
-    "location": "CA,United State",
+    "location": "Nagpur, Maharashtra",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Train more than 3000+ students, Compitative programming",
+      "Specialization in Java Programming and Full Stack Development"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/upskill.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
+    "role": "Technical Trainer",
+    "organisation": "Wainganga Collage of Engineering and Managment",
+    "startDate": "September, 2021",
     "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "location": "Nagpur, Maharshtra",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Providing Technical Intership on fullstack development",
+      "Compitative Programming "
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/wcm.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "IT Trainer",
+    "organisation": "Safeducate Learning Pvt Ltd.",
+    "startDate": "November, 2017",
+    "endDate": "March, 2021",
+    "location": "Pune, Maharashtra",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Multiple Programming Language Training, classroom and offline trainig",
+      "Providing Industrial Training, corporate traing "
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/safeducate.jpeg"
+  },
+  {
+    "id": 4,
+    "role": "Technical Support Executive",
+    "organisation": "Qconnect Business Solution",
+    "startDate": "November, 2016",
+    "endDate": "Octomber, 2017",
+    "location": "Pune, Maharashtra",
+    "experiences": [
+      "providing Remote Technical Support, installation and troublshooting",
+      "Taking feedback from client , registering the complaint"
+    ],
+    "imageSrc": "company/qconnect.jpeg"
   }
 ]
